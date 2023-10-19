@@ -1,4 +1,5 @@
 # Robot Pengikut Garis 
+
 Proyek ini adalah robot yang mengikuti garis. Itu dapat mendeteksi dan mengikuti garis pita di lantai atau arena. Robot menjalankan ROS pada Raspberry Pi, menggunakan Artificial Intelligence (OpenCV) untuk mendeteksi garis, dan Arduino Pro Micro untuk mengontrol kemudi pada robot agar terarah.
 
 Project ini untuk melihat bagaimana ROS dan OpenCV berhasil di terapkan pada robot. Kode OpenCV kemungkinan tidak akan berfungsi di lingkungan pencahayaan yang berbeda. Sistem persepsi tidak dapat digeneralisasi karena bergantung pada garis yang jauh lebih ringan dibandingkan lantai pada arena nya.
